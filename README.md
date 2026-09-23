@@ -3,6 +3,11 @@
 アドリア海の島々の上を赤い飛行艇がゆったり飛んでいく様子を眺める 3D 映像作品です。
 写実よりも「手描きアニメの一場面」らしさを優先して、すべてトゥーン調のカスタムシェーダーで描いています。
 
+<img width="500" height="" alt="スクリーンショット 2026-09-24 2 38 26" src="https://github.com/user-attachments/assets/5bfa8456-7c8d-4945-81ba-645f9c06bbda" />
+<br />
+<img width="500" height="" alt="スクリーンショット 2026-09-24 2 37 47" src="https://github.com/user-attachments/assets/9ff587f0-00a5-4dd7-b271-485548be750f" />
+
+
 ## 起動
 
 ```bash
