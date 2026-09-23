@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Azzurro — アドリア海の午後</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;1,400&family=Shippori+Mincho:wght@500&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div id="app"></div>
+
+    <div id="loader">
+      <div class="title">
+        <p class="jp">アドリア海の午後</p>
+        <h1>Azzurro</h1>
+        <p id="loader-status">…</p>
+      </div>
+    </div>
+
+    <div id="ui">
+      <div id="shot"></div>
+      <div id="controls">
+        <button id="btn-camera">🎥 Director</button>
+        <button id="btn-next">Next shot ›</button>
+        <button id="btn-sound">♪ Sound off</button>
+      </div>
+      <div id="help">drag: free camera · space: next shot · 1–8: shots · M: sound · H: hide UI</div>
+    </div>
+
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
