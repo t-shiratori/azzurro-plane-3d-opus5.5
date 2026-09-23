@@ -49,3 +49,12 @@ pnpm dev            # http://localhost:5173
 - TypeScript 7 / Vite 8 / three.js r186
 - Oxlint / Oxfmt
 - 依存パッケージはすべてバージョン固定（`.npmrc` の `save-exact=true`）
+
+## ライセンス
+
+[MIT License](LICENSE) © 2026 t-shiratori
+
+### サードパーティ
+
+- [three.js](https://github.com/mrdoob/three.js) — MIT License
+- GLSL simplex noise（`src/shaders/common.ts`）— Ashima Arts / Stefan Gustavson による [webgl-noise](https://github.com/ashima/webgl-noise)、MIT License
