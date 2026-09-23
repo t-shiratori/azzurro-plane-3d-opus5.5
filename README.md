@@ -50,6 +50,10 @@ pnpm dev            # http://localhost:5173
 - Oxlint / Oxfmt
 - 依存パッケージはすべてバージョン固定（`.npmrc` の `save-exact=true`）
 
+## クレジット
+
+このプロジェクトは [Claude Code](https://claude.com/claude-code) で Claude Opus 5.5 を使って実装しました。
+
 ## ライセンス
 
 [MIT License](LICENSE) © 2026 t-shiratori
