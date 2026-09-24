@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "azzurro-plane-3d-opus5-5",
+      "runtimeExecutable": "mise",
+      "runtimeArgs": ["exec", "--", "pnpm", "dev", "--port", "5199", "--strictPort"],
+      "port": 5199
+    }
+  ]
+}
